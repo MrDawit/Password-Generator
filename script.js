@@ -1,5 +1,5 @@
-const generateButton = document.querySelector("#generate");
-const specialCharacters = "!@#$%^&*()";
+var generateButton = document.querySelector("#generate");
+var specialCharacters = "!@#$%^&*()";
 generateButton.addEventListener("click", writePassword);
 
 function writePassword() {
