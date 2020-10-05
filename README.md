@@ -1,7 +1,7 @@
 # Password Generator
 A password generator app that prompts questions for the user thus a random password specific to the user can be created. The app is responsive and can be used on the go for any device. The app is also very simple and small that gives a sense of security(coming from a small time coder) versus a huge program that has many vulnerabilities and hard to read.
 * live link: https://mrdawit.github.io/Password-Generator/
-<img src="#">
+<img src="Password_Generator.gif">
 
 ## Technologies Used
 * HTML
